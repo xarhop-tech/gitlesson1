@@ -16,8 +16,8 @@ function code() {
 ```
 ###### This is Unordered list:
 * [fgghh](https://robobank.robocode.ua/#)
-* [this is link]((https://robobank.robocode.ua/#))
-* [this is link](#)
+* [this is link](https://robobank.robocode.ua/#)
+* [this is link](https://robobank.robocode.ua/) 
 
 
 
